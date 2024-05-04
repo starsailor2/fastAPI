@@ -1,0 +1,5 @@
+fast api read the files line by line
+for make them run in a proper way, the static routing is always write above the dynamic routing.
+
+if the parameter is includes in the path and that is accepted in the function, api knows that it should be treated as path parameter
+but in case of that it is not included in path, it is treated as query parameter.
